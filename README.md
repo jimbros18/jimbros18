@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=%F0%9F%92%AB+About+Me%3A)](https://git.io/typing-svg)
 <br/>
-👋 Hi there! I'm an aspiring Data Analyst with a growing passion for making sense of data.<br>🧠 I taught myself how to code and quickly realized—I really enjoy it!<br>🔧 Currently building up my skills in Python, SQL, Excel, and Power BI, and always open to learning more.<br>🚀 I'm especially curious about blending data analysis with IoT systems, like using data for object detection and smart automation.<br>💬 Always up for a good conversation about tech, data, or cool project ideas!
+👋 Hi there! I'm an aspiring Data Analyst with a growing passion for making sense of data.<br>
+🧠 I taught myself how to code and quickly realized—I really enjoy it!<br>
+🔧 Currently building up my skills in Python, SQL, Excel, and Power BI, and always open to learning more.<br>
+🚀 I'm especially curious about blending data analysis with IoT systems, like using data for object detection and smart automation.<br>
+💬 Always up for a good conversation about tech, data, or cool project ideas!
 
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=%F0%9F%8C%90+Socials%3A)](https://git.io/typing-svg)
